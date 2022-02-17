@@ -22,9 +22,9 @@ The value proposition of developing these cryptocurrency wallets extends into Da
 
 # API Providers
 
-Infura.io as JsonRPC provider
+🖥️ ```Infura.io``` as JsonRPC provider
  
-Coin360 as exchange rates provider
+🖥️ ```Coin360``` as exchange rates provider
 
 
 # Features
