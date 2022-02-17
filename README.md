@@ -11,7 +11,10 @@ A fully integraded crypto currency wallet allowing to receive & send multipule a
 Integraded connection with ```web2``` & ```web3``` following the ability with bridgding ```L1 & L2``` solutions.
 
 
-1.) What is the service I provided?
+1.) 
+
+# What is the service I provided?
+
 The services I provided in the blockchain wallet construction followed the connection, deployment & testing of the migration smart contract files. These migration files are known as ```JSON files``` are essential for wallet data, assets, and artwork to be transmitted safely and efficiently from peer to peer.
 
 2.) 
@@ -20,4 +23,3 @@ The services I provided in the blockchain wallet construction followed the conne
 
 The value proposition of developing these cryptocurrency wallets extends into Dapps, smart contracts, and security maintenance. The development of these smart contracts can conduct multiple actions across the various blockchain ecosystem.
 
-3.)
