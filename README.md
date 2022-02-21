@@ -44,16 +44,17 @@ The value proposition of developing these cryptocurrency wallets extends into Da
 
 # Core Set up
 
-npm scripts for eth-hot wallet:
-npm run build:dll to build webpack DLL required for development.
+⚪npm scripts for eth-hot wallet:
 
-npm run start to start development mode. 
+⚪npm run build:dll to build webpack DLL required for development.
 
-Go to http://localhost:3001 - changes will be reflected in realtime using hot module reloading.
+⚪npm run start to start development mode. 
 
-npm run build to create bundle for publishing
+⚪Go to http://localhost:3001 - changes will be reflected in realtime using hot module reloading.
 
-npm run generate to create new components / containers using the generator.
+⚪npm run build to create bundle for publishing
+
+⚪npm run generate to create new components / containers using the generator.
 
 
 ![University_graphic-Article_27-04](https://user-images.githubusercontent.com/59753390/137054159-5b2a6493-079d-4b3b-b1ca-6255177a3a36.png)
